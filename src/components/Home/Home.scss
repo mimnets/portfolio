@@ -1,0 +1,38 @@
+$finalHeight: 250px;
+$finalWidth: 3 * $finalHeight;
+$scrollBarHeight: 1px;
+
+::-webkit-scrollbar{
+    width:$scrollBarHeight; 
+    height:$scrollBarHeight
+}
+::-webkit-scrollbar-button{width:2px; height:2px}
+
+.horizontal-scroll-wrapper{
+    position:absolute;
+    display:block;
+    top:0;
+    left:0;
+    width: 1000px;
+    max-height: 100%;
+    margin: 0;
+    background: #abc;
+    overflow-y: auto;
+    overflow-x: hidden;
+    transform: rotate(-90deg);
+    transform-origin: right top;
+}
+
+.horizontal-scroll-wrapper div{
+    display: block;
+    padding: 5px;
+    width: 500px;
+    height: 500px;
+    transform: rotate(90deg);
+    transform-origin: right top;
+    background:#dbc;
+}
+
+div{
+    box-sizing:border-box;
+}
