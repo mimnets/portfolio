@@ -1,16 +1,11 @@
 import React from 'react';
-import './Home.scss'
+import Header from '../Header/Header';
+import MainHome from '../MainHome/MainHome';
 const Home = () => {
     return (
-        <div className="horizontal-scroll-wrapper">
-            <div>Box-1</div>
-            <div>Box-2</div>
-            <div>Box-3</div>
-            <div>Box-4</div>
-            <div>Box-5</div>
-            <div>Box-6</div>
-            <div>Box-7</div>
-            <div>Box-8</div>
+        <div>
+            <Header></Header>
+            <MainHome></MainHome>
         </div>
     );
 };
