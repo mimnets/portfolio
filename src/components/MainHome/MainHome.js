@@ -19,6 +19,17 @@ const MainHome = () => {
                     <img src="https://1.bp.blogspot.com/-I133jKKCC9g/X5wyeHKUlsI/AAAAAAAAolY/hyzB7NE3Uak03gjqBVsfDifjwr3RetoHgCLcBGAsYHQ/s714/monirul-portfolio2.png" alt="" />
                 </div>
             </div>
+            <div className="row contianer">
+                <div className="col-md-6 grid">
+                    <h2>Dream big</h2>
+                    <img src="https://1.bp.blogspot.com/-zTgkeIUvR1o/X5wyYAy5a_I/AAAAAAAAolU/43aLjrNI2jkkU4HdhePcHaHNRfATOUeYACLcBGAsYHQ/s1038/monirul-portfolio.png"  alt=""/>
+                </div>
+                <div className="col-md-6 grid">
+                <h3>Become World's No. 1  Web Developer</h3>
+                <p>I dream big with my hard working. I wish to be a world's no. 1 web developer to deliver my clients a good web experiences with their respective requirements. I have started my web developemnt journey @ 25th June, 2020 with Programming Hero team.</p>
+                <a className="btn btn-primary btn-lg active" role="button" href="https://www.linkedin.com/in/mdmonirulislammonir/" target="_blank">Let's Connect</a>
+                </div>
+            </div>
         </section>
     );
 };

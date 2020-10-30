@@ -2,7 +2,7 @@ import React from 'react';
 import './TopNav.css';
 const TopNav = () => {
     return (
-      <nav class="navbar fixed-top navbar-expand-lg navbar-light bg-light container nav">
+      <nav class="navbar fixed-top navbar-expand-lg navbar-light bg-white container nav">
   <a class="navbar-brand" href="/"><img src="https://1.bp.blogspot.com/-I133jKKCC9g/X5wyeHKUlsI/AAAAAAAAolY/hyzB7NE3Uak03gjqBVsfDifjwr3RetoHgCLcBGAsYHQ/s714/monirul-portfolio2.png" alt=""/></a>
   <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarNav" aria-controls="navbarNav" aria-expanded="false" aria-label="Toggle navigation">
     <span class="navbar-toggler-icon"></span>
