@@ -3,10 +3,10 @@ import Header from '../Header/Header';
 import MainHome from '../MainHome/MainHome';
 const Home = () => {
     return (
-        <div>
+        <section>
             <Header></Header>
             <MainHome></MainHome>
-        </div>
+        </section>
     );
 };
 

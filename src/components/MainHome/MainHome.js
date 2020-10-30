@@ -4,7 +4,7 @@ import './MainHome.scss';
 const MainHome = () => {
     return (
         <div className="horizontal-scroll-wrapper squares">
-            <div>Box-1</div>
+            <div>Box-1 fsdlfjlsd jflsdfkjh ksjdfh kjh</div>
             <div>Box-2</div>
             <div>Box-3</div>
             <div>Box-4</div>

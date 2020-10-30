@@ -3,9 +3,9 @@ import TopNav from '../TopNav/TopNav';
 
 const Header = () => {
     return (
-        <div>
+        <section>
             <TopNav></TopNav>
-        </div>
+        </section>
     );
 };
 

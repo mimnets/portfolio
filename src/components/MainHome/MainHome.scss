@@ -1,4 +1,4 @@
-$finalHeight: 990px;
+$finalHeight: 900px;
 $finalWidth: 3 * $finalHeight;
 $scrollBarHeight: 1px;
 
@@ -12,7 +12,7 @@ $scrollBarHeight: 1px;
 }
 
 .horizontal-scroll-wrapper{
-    position:absolute;
+    position: absolute;
     display:block;
     top:0;
     left:0;
