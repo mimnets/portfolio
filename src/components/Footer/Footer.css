@@ -2,6 +2,9 @@
     padding-top: 100px;
     border: 40px;
 }
-.li img{
+ul img{
     height: 40px;
+}
+ul{
+    list-style-type: none;
 }
