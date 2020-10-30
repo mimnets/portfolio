@@ -3,13 +3,13 @@ import './Footer.css';
 const Footer = () => {
     return (
         
-        <section className="">
-            <div className="row contianer">
+        <section className="container">
+            <div className="row justify-content-between">
                 <div className="col-md-10">
-                    This is footer
+                    <span>© 2020 - Monirul Islam,All Right Reserved</span>
                 </div>
                 <div className="col-md-2">
-                <a class="navbar-brand li" href="/"><img src="https://1.bp.blogspot.com/-I133jKKCC9g/X5wyeHKUlsI/AAAAAAAAolY/hyzB7NE3Uak03gjqBVsfDifjwr3RetoHgCLcBGAsYHQ/s714/monirul-portfolio2.png" alt=""/></a>
+                <a class="navbar-brand li" href="/"><img src="https://1.bp.blogspot.com/-zTgkeIUvR1o/X5wyYAy5a_I/AAAAAAAAolU/43aLjrNI2jkkU4HdhePcHaHNRfATOUeYACLcBGAsYHQ/s1038/monirul-portfolio.png" alt=""/></a>
                 </div>
             </div>
         </section>
