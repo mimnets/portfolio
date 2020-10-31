@@ -16,7 +16,7 @@ const MainHome = () => {
                     <a className="btn btn-primary btn-lg active" role="button" href="https://www.linkedin.com/in/mdmonirulislammonir/" target="_blank">HIRE ME</a>
                 </div>
                 <div className="col-md-6 grid">
-                    <img src="https://1.bp.blogspot.com/-I133jKKCC9g/X5wyeHKUlsI/AAAAAAAAolY/hyzB7NE3Uak03gjqBVsfDifjwr3RetoHgCLcBGAsYHQ/s714/monirul-portfolio2.png" alt="" />
+                    <img src="https://1.bp.blogspot.com/--CA3j7YWfOs/X52AzpJq3YI/AAAAAAAAomE/IWJeJmaaI7QUN_y7PvVdDxescWNfiT85wCLcBGAsYHQ/s570/monirul-hero-image.jpg" alt="" />
                 </div>
             </div>
             <div className="row contianer">
