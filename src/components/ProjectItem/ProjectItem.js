@@ -3,6 +3,7 @@ import './ProjectItem.css';
 const ProjectItem = () => {
     return (
         <section className="container project-container">
+            <div><h2>Projects</h2></div>
             <div className="row my-5">
             <div className="col-md-6">
                 <h1>Creative Agency</h1>
