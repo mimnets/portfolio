@@ -16,8 +16,10 @@
     transition: .5s ease;
     opacity: 0;
     position: absolute;
+    width: 100%;
+    /* height: 100%; */
     top: 50%;
-    left: 50%;
+    left: 60%;
     transform: translate(-50%, -50%);
     -ms-transform: translate(-50%, -50%);
     /* text-align: center;  */
@@ -36,7 +38,7 @@
 .text{
     /* background-color:#ffd023; */
     color: black;
-    font-size:16px;
+    font-size:14px;
     /* padding: 16px 32px; */
     
     /* border-radius: 5px; */

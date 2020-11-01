@@ -13,10 +13,10 @@ const TopNav = () => {
         <a class="nav-link mr-5" href="/">Home <span class="sr-only">(current)</span></a>
       </li>
       <li class="nav-item">
-        <a class="nav-link mr-5" href="/projects">Projects</a>
+        <a class="nav-link mr-5" href="#projects">Projects</a>
       </li>
       <li class="nav-item">
-        <a class="nav-link mr-5" href="#">About</a>
+        <a class="nav-link mr-5" href="#resume">About</a>
       </li>
       <li class="nav-item">
         <a class="nav-link mr-5" href="#">Blog</a>

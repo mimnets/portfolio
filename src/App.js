@@ -5,15 +5,12 @@ import {
   Route
 } from "react-router-dom";
 import Home from './components/Home/Home';
-import Projects from './components/Projects/Projects';
+import Projects from './components/Resume/Resume';
 
 function App() {
   return (
     <Router>
       <Switch>
-      <Route path="/projects">
-          <Projects></Projects>
-        </Route>
         <Route path="/">
           <Home></Home>
         </Route>
