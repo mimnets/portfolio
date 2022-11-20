@@ -1,0 +1,12 @@
+.header{
+    padding-top: 20px;
+}
+.header a{
+    text-decoration: none;
+    margin-right: 10px;
+    color: #FFFFFF;
+}
+
+.code-symbol{
+    color: #FFD700;
+}
